@@ -1,0 +1,3 @@
+[submodule "mkdocs-poc"]
+	path = mkdocs-poc
+	url = https://github.com/maknop/api-docs-mkdocs-test

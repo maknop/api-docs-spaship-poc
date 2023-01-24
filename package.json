@@ -1,0 +1,23 @@
+{
+  "name": "api-docs-spaship-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pages/index.js",
+  "scripts": {
+    "start": "node widdershins.js && mkdocs serve"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maknop/api-docs-spaship-poc.git"
+  },
+  "author": "Matt Knop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maknop/api-docs-spaship-poc/issues"
+  },
+  "homepage": "https://github.com/maknop/api-docs-spaship-poc#readme"
+}
